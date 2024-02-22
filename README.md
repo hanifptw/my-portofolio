@@ -29,3 +29,5 @@ medium    : [brillianthanif](http://medium.com/brillianthanif)
 
 Telegram : [@hanifptw](http://t.me/hanifptw)
 
+## References
+[Lee Robinson](https://leerob.io/)
